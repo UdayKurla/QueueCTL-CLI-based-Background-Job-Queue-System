@@ -106,7 +106,7 @@ The system design focuses on meeting the **minimal, production-grade** requireme
 
 -----
 
-## 4\. Expected Test Scenarios
+## 4\. Test Scenarios
 
 1.  **Basic job completes successfully**.
 2.  **Failed job retries with backoff and moves to DLQ**.
@@ -115,9 +115,7 @@ The system design focuses on meeting the **minimal, production-grade** requireme
 5.  **Job data survives restart**.
 
 -----
-## 5\. Testing Instructions
-
-### Demo Video
+## 5\. Demo Video
 
   * **Video Link:** https://drive.google.com/file/d/1r7L9hM6C47VK5TkfrXOCCUKVZACOznBG/view?usp=sharing
 
