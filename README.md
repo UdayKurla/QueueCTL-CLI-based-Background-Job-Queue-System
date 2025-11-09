@@ -2,7 +2,7 @@
 A production-grade background job queue system built in Python. Features include concurrent worker processing, persistent job storage via SQLite, automatic retries with exponential backoff, and a dedicated Dead Letter Queue (DLQ) for failed jobs. Successfully validates all core reliability and concurrency scenarios.
 
 
-# 🚀 QueueCTL: Backend Job Queue System
+# QueueCTL: Backend Job Queue System
 
 **GitHub Repository:** `https://github.com/UdayKurla/QueueCTL-CLI-based-Background-Job-Queue-System`
 
@@ -119,10 +119,10 @@ The system design focuses on meeting the **minimal, production-grade** requireme
 5.  **Job data survives restart**.
 
 -----
-5\. 🧪 Testing Instructions
+## 5\. Testing Instructions
 
 ### Demo Video
 
-  * **Video Link:** **[INSERT LINK TO YOUR RECORDED CLI DEMO HERE]**
+  * **Video Link:** https://drive.google.com/file/d/1r7L9hM6C47VK5TkfrXOCCUKVZACOznBG/view?usp=sharing
 
 -----
